@@ -6,32 +6,32 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [{
         title: "IT Security: Defense Against The Digital Dark Arts",
         cardImage: "assets/images/education-page/coursera.jpg",
-        moocLink: "https://www.coursera.org/account/accomplishments/verify/2XBC9C92DWMK",
+        moocLink: "http://www.coursera.org/account/accomplishments/verify/2XBC9C92DWMK",
     },
     {
         title: "The Fundamental of Digital Marketing",
         cardImage: "assets/images/education-page/google.jpg",
-        moocLink: "https://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code",
+        moocLink: "http://learndigital.withgoogle.com/digitalunlocked/validate-certificate-code",
     },
     {
         title: "CyberSecurity Course",
         cardImage: "assets/images/education-page/coursera.jpg",
-        moocLink: "https://www.coursera.org/learn/machine-learning",
+        moocLink: "http://coursera.org/learn/machine-learning",
     },
     {
         title: "Object-Oriented Programming With Java",
         cardImage: "assets/images/education-page/coursera.jpg",
-        moocLink: "https://www.coursera.org/account/accomplishments/verify/LK4NYRP5RQWT",
+        moocLink: "https://coursera.org/account/accomplishments/verify/LK4NYRP5RQWT",
     },
     {
         title: "Programming for Everybody (Getting Started with Python)",
         cardImage: "assets/images/education-page/coursera.jpg",
-        moocLink: "https://www.guvi.in/certificate?id=951y130vcS6n89R182&download=true",
+        moocLink: "http://guvi.in/certificate?id=951y130vcS6n89R182&download=true",
     },
     {
         title: "Build A Face Recognition Application Using Python",
         cardImage: "assets/images/education-page/guvi.png",
-        moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
+        moocLink: "http://udacity.com/course/intro-to-javascript--ud803",
     },
     {
         title: "Customer Service: Handling Abusive Customers",
@@ -41,12 +41,12 @@ const moocscards = [{
     {
         title: "Group Discussions & Interview Preparation",
         cardImage: "assets/images/education-page/IDC.png",
-        moocLink: "https://drive.google.com/file/d/1LYSCXLYnD6rdSNYJT9HX-EyA23l6kFQI/view",
+        moocLink: "http://drive.google.com/file/d/1LYSCXLYnD6rdSNYJT9HX-EyA23l6kFQI/view",
     },
     {
         title: "Effective Learning",
         cardImage: "assets/images/education-page/coursera.jpg",
-        moocLink: "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
+        moocLink: "http://coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
     },
     {
         title: "RPA Design & Development Course",
@@ -56,12 +56,12 @@ const moocscards = [{
     {
         title: "Learn C Programming From Scratch",
         cardImage: "assets/images/education-page/udemy.png",
-        moocLink: "https://www.udemy.com/certificate/UC-6cbdfbea-5d78-4c0d-878c-9474203c56a0/",
+        moocLink: "http://udemy.com/certificate/UC-6cbdfbea-5d78-4c0d-878c-9474203c56a0",
     },
     {
         title: "Data Structures & Algorithms",
         cardImage: "assets/images/education-page/udemy.png",
-        moocLink: "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+        moocLink: "http://udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
     },
 ];
 
