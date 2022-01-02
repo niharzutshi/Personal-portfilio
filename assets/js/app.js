@@ -120,7 +120,7 @@ let footer = $(`
             </div>
             
     <div class="rounded-social-buttons tag">
-    <a class="social-button twitter" href="https://twitter.com/zutshi_nihar" target="_blank">
+    <a class="social-button twitter" href="http://twitter.com/zutshi_nihar" target="_blank">
     <!-- SVG code for twitter icon -->
     <svg class="twitter-icon-footer" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
@@ -176,7 +176,7 @@ let footer = $(`
                           c117.9-117.9,82.9-167.7,82.9-167.7l-2.8-0.1C241.6,182.3,238.2,181.9,233.2,181.5z" />
     </svg>
     </a>
-    <a class="social-button linkedin" href="https://www.linkedin.com/in/niharzutshi/" target="_blank" >
+    <a class="social-button linkedin" href="http://linkedin.com/in/niharzutshi/" target="_blank" >
     <!-- svg code for linkedin icon -->
       <svg class="linkedin-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 24 24" fill="#0e76a8"
         stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
@@ -187,7 +187,7 @@ let footer = $(`
         </svg>
         </a>
 
-    <a class="social-button instagram" href="https://www.instagram.com/iamniharji/" target="_blank" a>
+    <a class="social-button instagram" href="http://instagram.com/iamniharji" target="_blank" a>
     <!-- svg code for instagram icon -->
       <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
         style="enable-background:new 0 0 202.5 202.5;">
@@ -198,7 +198,7 @@ let footer = $(`
       </svg>
     </a>
 
-    <a class="social-button github" href="https://github.com/Niharzutshi" target="_blank">
+    <a class="social-button github" href="http://github.com/Niharzutshi" target="_blank">
     <!-- SVG code for Github icon -->
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
         <!-- body -->
@@ -215,7 +215,7 @@ let footer = $(`
 
 
     </div>
-    <div>  <p class="tag">Made with <img alt="❤️" draggable="false" src="https://twemoji.maxcdn.com/2/72x72/2764.png" style="height: 1em; width: 1em; margin: 0px 0.05em 0px 0.1em; vertical-align: -0.1em;"> by Nihar Zutshi</p></div>
+    <div>  <p class="tag">Made with <img alt="❤️" draggable="false" src="https://twemoji.maxcdn.com/2/72x72/2764.png" style="height: 1em; width: 1em; margin: 0px 0.05em 0px 0.1em; vertical-align: -0.1em;"> by iamniharji</p></div>
 </footer>
 
 
